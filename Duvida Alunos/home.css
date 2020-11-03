@@ -1,0 +1,154 @@
+.container {
+    margin-top: 1rem;
+    display: block;
+}
+
+
+
+.header {
+    background-color: #5AAAD9;
+    color: white;
+    padding: 35px 0;
+    margin-bottom: 7px;
+    -webkit-box-flex: 0;
+    -ms-flex: none;
+    flex: none;
+    position: relative;
+    z-index: 10;
+    background-size: cover;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,0.2);
+
+}
+#duvida {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 20px;
+}
+@media only screen and (max-width: 600px) {
+    #duvida {
+        font-size: 18px;
+    }
+}
+
+#icone {
+
+    position: relative;
+    width: 150px;
+    height: 100px;
+}
+
+#icone2 {
+    position: relative;
+    width: 22px;
+    height: 22px;
+
+}
+
+
+#card {
+    box-shadow: 0px 4px 4px rgba(30, 30, 30, 0.1);
+    border-radius: 5px;
+    margin-top: .75rem;
+    transition: .2s ease-in-out;
+    transform: translateX(0);
+    cursor: pointer;
+}
+#card:hover {
+    box-shadow: 0px 4px 12px rgba(30, 30, 30, 0.2);
+    transform: translateX(6px);
+}
+#icone3 {
+    top: 4px;
+    float: right;
+    position: relative;
+    width: 22px;
+    height: 22px;
+}
+
+@media only screen and (max-width: 600px) {
+    #icone3{
+        width: 16px;
+        height: 16px;
+    }
+}
+
+a {
+    text-decoration: none;
+
+}
+a:hover {
+    text-decoration: none;
+}
+
+#letraduvida {
+    text-decoration: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: medium;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 600px) {
+    #letraduvida{
+        font-size:12px;
+    }
+
+}
+
+.titulo {
+    color: #5aaad9;
+    margin-top: 2rem;
+    font-family:"proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+@media only screen and (max-width: 600px) {
+    .titulo{
+        font-size:22px;
+    }
+
+}
+
+.pesquisar {
+    display: flex;
+}
+
+.pesquisar input {
+    outline: none;
+    border: none;
+    width: 100%;
+    padding: 1.25rem 1.75rem;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+
+
+
+}
+.pesquisar input:focus {
+    background:white;
+    transition: .3s ease-in-out;
+
+}
+.pesquisar input::-webkit-input-placeholder{
+    color: black;
+}
+#icone5{
+    width: 15px;
+}
+span{
+    color: black;
+}
+.pesquisar .lupa_pesquisar {
+    width: 18px;
+    position: absolute;
+    top: calc(50% - 9px);
+    right: 2.5rem;
+
+
+}
+.container.pesquisar {
+    position: relative;
+
+}

@@ -1,0 +1,139 @@
+.container {
+    margin-top: 1rem;
+    display: block;
+}
+
+
+.header {
+    background-color: #5AAAD9;
+    color: white;
+    padding: 35px 0;
+    margin-bottom: 7px;
+    -webkit-box-flex: 0;
+    -ms-flex: none;
+    flex: none;
+    position: relative;
+    z-index: 10;
+    background-size: cover;
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+#duvida {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    #duvida {
+        font-size: 18px;
+    }
+
+}
+
+#icone {
+
+    position: relative;
+    width: 150px;
+    height: 100px;
+}
+
+.titulo {
+
+    margin-top: 2rem;
+    color: #5AAAD9;
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .titulo {
+        font-size: 20px;
+    }
+
+}
+
+.pesquisar {
+    display: flex;
+}
+
+.pesquisar input {
+    outline: none;
+    border: none;
+    width: 100%;
+    padding: 1.25rem 1.75rem;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+
+
+}
+
+.pesquisar input:focus {
+    background: white;
+    transition: .3s ease-in-out;
+
+}
+
+.pesquisar input::-webkit-input-placeholder {
+    color: black;
+}
+
+#icone5 {
+    width: 15px;
+}
+
+span {
+    color: black;
+}
+
+.pesquisar .lupa_pesquisar {
+    width: 18px;
+    position: absolute;
+    top: calc(50% - 9px);
+    right: 2.5rem;
+
+
+}
+
+.container.pesquisar {
+    position: relative;
+
+}
+#card {
+    box-shadow: 0px 4px 4px rgba(30, 30, 30, 0.1);
+    border-radius: 5px;
+    margin-top: .75rem;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+.paragrafo{
+    line-height: 40px;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:#565867;
+
+}
+
+.btn{
+
+    border-radius: 5px;
+    border: solid 1px #5AAAD9;
+    background-color: #5AAAD9;
+    color: white;
+    font-size: 14px;
+}
+
+.span{
+    color: white;
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:14px;
+}
+
+
+
+}
