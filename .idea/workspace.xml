@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ca69724-18a0-4ef2-8d20-8c5193936c6a" name="Default Changelist" comment="" />
+    <list default="true" id="6ca69724-18a0-4ef2-8d20-8c5193936c6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Duvida Alunos/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/Duvida Alunos/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Duvida Alunos/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Duvida Alunos/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home principal/faq.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home principal/faq.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home principal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home principal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/icon1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/icon1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/icon3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/icon3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/respostadofaq/repostafaq.css" beforeDir="false" afterPath="$PROJECT_DIR$/respostadofaq/repostafaq.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/respostadofaq/respostafaq.html" beforeDir="false" afterPath="$PROJECT_DIR$/respostadofaq/respostafaq.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +27,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jW8O92jCqL3gpxFSHMWMtvHhgT" />
   <component name="ProjectViewState">
@@ -49,7 +62,10 @@
       <workItem from="1603908456261" duration="4367000" />
       <workItem from="1603969447308" duration="23462000" />
       <workItem from="1604056066043" duration="14268000" />
-      <workItem from="1604403529493" duration="3655000" />
+      <workItem from="1604403529493" duration="5933000" />
+      <workItem from="1604421270771" duration="17000" />
+      <workItem from="1604948421692" duration="2688000" />
+      <workItem from="1605017666596" duration="11051000" />
     </task>
     <servers />
   </component>
@@ -61,6 +77,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="717" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1603995359206" />
+    <state x="887" y="288" key="FileChooserDialogImpl" timestamp="1604421283230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="887" y="288" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604421283230" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1604405190075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

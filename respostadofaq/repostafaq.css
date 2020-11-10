@@ -133,7 +133,17 @@ span {
     font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size:14px;
 }
-
+#menu {
+    position: fixed;
+    top: 50%;
+    width: 15em;
+    margin-top: -2.5em;
+    list-style-type: none;
+}
+@media only screen and (max-width: 600px) {
+    .sumir{
+        color: white;
+    }
 
 
 }
